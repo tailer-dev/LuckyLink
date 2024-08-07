@@ -1,0 +1,4 @@
+name: LuckyLink
+version: '${project.version}'
+main: me.tailerr.luckylink.LuckyLink
+api-version: '1.21'
